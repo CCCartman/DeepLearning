@@ -4,7 +4,7 @@
 Created on Mon Jul 23 12:03:11 2018
 
 @author: RWH
-@mail:wenhao@guanghe.tv
+@mail:rwhcartman@163.com
 """
 
 import numpy as np 
